@@ -1,0 +1,13 @@
+╠╦═account
+║╠╦═Attributes
+║║╠═accountid
+║║╠═name
+║║╠═numberofemployees
+║║╠═primarycontactid
+╠╦═contact
+║╠╦═Attributes
+║║╠═albxrm_myapikey
+║║╠═contactid
+║║╠═firstname
+║║╠═lastname
+║║╠═parentcustomerid
